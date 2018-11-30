@@ -71,6 +71,7 @@ import {Transition} from 'react-transition-group'
  *
  * @example
  * // Use it as you would with a normal `Transition` from `react-transition-group`
+ *
  * import {TransitionGroup} from 'react-transition-group'
  * import AnimatedComponent from './components/animated-component'
  *

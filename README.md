@@ -79,6 +79,7 @@ export default AnimatedComponent
 
 ```javascript
 // Use it as you would with a normal `Transition` from `react-transition-group`
+
 import {TransitionGroup} from 'react-transition-group'
 import AnimatedComponent from './components/animated-component'
 
