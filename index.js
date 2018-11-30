@@ -48,7 +48,7 @@ import {Transition} from 'react-transition-group'
  *  get timeline() {
  *    if (!this._timeline) {
  *      this._timeline = new TimelineMax({paused: true})
- *      this._timeline.fromTo(0.3, {x: -100, opacity: 0}, {x: 100, opacity: 1})
+ *      this._timeline.fromTo(this._ref.current, 0.3, {x: -100, opacity: 0}, {x: 100, opacity: 1})
  *    }
  *
  *    return this._timeline
