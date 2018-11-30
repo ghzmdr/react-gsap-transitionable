@@ -1,20 +1,20 @@
 {
   "name": "react-gsap-transitionable",
   "version": "0.1.0",
-  "description": "HoC to enable painless integration between gsap and react-transition-group",
+  "description": "Enables painless GSAP integration for in/out transitions along with react-transition-group",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs": "node ./docs/generate.js"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:ghzmdr/react-gsap-transitionable.git"
   },
   "keywords": [
-    "HoC",
     "react",
     "gsap",
     "react-transition-group",
+    "HOC",
     "transitions",
     "animations"
   ],

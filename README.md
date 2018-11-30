@@ -1,7 +1,7 @@
 
 
 # react-gsap-transitionable
-**HOC** that enables painless [**GSAP**](https://greensock.com/gsap) integration
+Enables painless [**GSAP**](https://greensock.com/gsap) integration
 for in/out transitions along with [`react-transition-group` v2](https://github.com/reactjs/react-transition-group/)
 
 ### Features
