@@ -1,0 +1,32 @@
+{
+  "name": "react-gsap-transitionable",
+  "version": "0.1.0",
+  "description": "HoC to enable painless integration between gsap and react-transition-group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ghzmdr/react-gsap-transitionable.git"
+  },
+  "keywords": [
+    "HoC",
+    "react",
+    "gsap",
+    "react-transition-group",
+    "transitions",
+    "animations"
+  ],
+  "author": "Vincent De Feo (http://ghzmdr.github.io/)",
+  "license": "Unlicense",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-transition-group": "^2.5.0"
+  },
+  "devDependencies": {
+    "jsdoc-api": "^4.0.3",
+    "jsdoc-escape-at": "^1.0.1",
+    "nunjucks": "^3.1.4"
+  }
+}
