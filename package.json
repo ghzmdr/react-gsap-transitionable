@@ -29,5 +29,7 @@
     "jsdoc-escape-at": "^1.0.1",
     "nunjucks": "^3.1.4"
   },
-  "peerDependencies": {}
+  "peerDependencies": {
+    "gsap": "^2.0.2"
+  }
 }
