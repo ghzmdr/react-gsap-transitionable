@@ -1,6 +1,6 @@
 {
   "name": "react-gsap-transitionable",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Enables painless GSAP integration for in/out transitions along with react-transition-group",
   "main": "index.js",
   "scripts": {
