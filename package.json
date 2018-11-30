@@ -28,5 +28,8 @@
     "jsdoc-api": "^4.0.3",
     "jsdoc-escape-at": "^1.0.1",
     "nunjucks": "^3.1.4"
+  },
+  "peerDependencies": {
+    "gsap": "^2.0.2"
   }
 }

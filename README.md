@@ -1,6 +1,17 @@
 
 
 # react-gsap-transitionable
+[![npm](https://img.shields.io/npm/v/react-gsap-transitionable.svg?style=for-the-badge)](https://www.npmjs.com/package/react-gsap-transitionable)
+[![npm bundle size (minified +
+gzip)](https://img.shields.io/bundlephobia/minzip/react-gsap-transitionable.svg?style=for-the-badge)](https://bundlephobia.com/result?p=react-gsap-transitionable)
+[![GitHub
+issues](https://img.shields.io/github/issues/ghzmdr/react-gsap-transitionable.svg?style=for-the-badge)](https://github.com/ghzmdr/react-gsap-transitionable/issues)
+[![License](https://img.shields.io/github/license/ghzmdr/react-gsap-transitionable.svg?style=for-the-badge)](https://github.com/ghzmdr/react-gsap-transitionable/blob/master/LICENSE)
+[![Dependents (via
+libraries.io)](https://img.shields.io/librariesio/dependents/npm/react-gsap-transitionable.svg?style=for-the-badge)](https://www.npmjs.com/package/react-gsap-transitionable)
+[![David](https://img.shields.io/david/ghzmdr/react-gsap-transitionable.svg?style=for-the-badge)](https://github.com/ghzmdr/react-gsap-transitionable/blob/master/package.json)
+
+
 Enables painless [**GSAP**](https://greensock.com/gsap) integration
 for in/out transitions along with [`react-transition-group` v2](https://github.com/reactjs/react-transition-group/)
 
